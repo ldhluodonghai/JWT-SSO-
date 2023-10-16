@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDH.AuthenticationCenter", "LDH.AuthenticationCenter\LDH.AuthenticationCenter.csproj", "{06330B6C-9252-4A89-88D4-A0C45E34D8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDH.WebAPIDemo1", "LDH.WebAPIDemo1\LDH.WebAPIDemo1.csproj", "{324B9B70-B549-4F42-B83A-9EC07A5657BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06330B6C-9252-4A89-88D4-A0C45E34D8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06330B6C-9252-4A89-88D4-A0C45E34D8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06330B6C-9252-4A89-88D4-A0C45E34D8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06330B6C-9252-4A89-88D4-A0C45E34D8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324B9B70-B549-4F42-B83A-9EC07A5657BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324B9B70-B549-4F42-B83A-9EC07A5657BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324B9B70-B549-4F42-B83A-9EC07A5657BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324B9B70-B549-4F42-B83A-9EC07A5657BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14162A2A-C055-4017-809A-96889648426A}
+	EndGlobalSection
+EndGlobal
